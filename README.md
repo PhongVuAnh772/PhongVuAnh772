@@ -57,6 +57,11 @@ I'm excited to embark on a journey to become a mobile developer specializing in 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=PhongVuAnh772&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=PhongVuAnh772&theme=dark&hide_border=false&count_private=true)<br/><br/>
@@ -64,9 +69,6 @@ I'm excited to embark on a journey to become a mobile developer specializing in 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhongVuAnh772&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=PhongVuAnh772&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&count_private=true)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=PhongVuAnh772&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
