@@ -2,9 +2,13 @@
 
 PhongVuAnh772@github
 
-## 🌐 Socials:
+## 🌐 Facebook:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/phong.vuanh.981)
+
+## 🌐 Facebook:
+
+[![Facebook](https://img.shields.io/badge/Instagram-%231877F2.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/phongg229_)
 
 # 💻 Tech Stack:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -49,7 +53,3 @@ PhongVuAnh772@github
 ---
 
 [![](https://visitcount.itsvg.in/api?id=PhongVuAnh772&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ngoc130203)
