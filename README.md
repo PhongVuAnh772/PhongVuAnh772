@@ -10,7 +10,7 @@ I'm excited to embark on a journey to become a mobile developer specializing in 
 
 ## 📊 Instagram:
 
-[![Facebook](https://img.shields.io/badge/Instagram-%231877F2.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/phongg229_)
+[![Facebook](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/phongg229_)
 
 
 ### 🧰 Languages and Tools
